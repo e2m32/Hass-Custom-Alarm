@@ -18,7 +18,7 @@ This is very much a community project so if you wish to chip in then please do!!
 - Passcode Attemps/Lockout
 - Support for custom device states
 - Code panel 0-9 on disarm only
-- Weather Status (Optional) - **NOTE:** You must have dark sky weather component enabled specifically sensor.dark_sky_summary.
+- Weather Status (Optional) - **NOTE:** You must have dark sky weather component enabled specifically sensor.dark_sky_summary and sensor.dark_sky_apparent_temperature.
 - Peimeter Mode (Optional) - Allows you to part activate the alarm in Home Day mode. I use this to only arm a particular set of sensors (doors) whilst im using all floors.
 - clock display (Optional)
 - Digit code entry on disarm
